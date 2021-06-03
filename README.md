@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CptRagnarok
-- 👀 I’m interested in Javascript, Blockchain and Machine Learning
-- 🌱 I’m currently learning MySQL
+- 👋 Hi, I’m @CptRagnarok. I am currently a full-time Pilot flying the Airbus A320 around Europe (Well, pre-pandemic...)
+- 👀 I’m interested in Javascript and Distributed Ledger Technology.
+- 🌱 I’m currently learning MySQL.
 - 💞️ I’m looking to collaborate on ... Something, one day.
 - 📫 How to reach me ... on Twitter @KenWestwood
 
