@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate with a start-up in the DLT/Blockchain or Space Sectors.
 - 📫 How to reach me ... on Twitter @KenWestwood
 
-You can find a cop of my portfolio, [here](https://github.com/CptRagnarok/folio). checkout the [README](https://github.com/CptRagnarok/folio/blob/master/README.md) to see how it works!
+You can find a copy of my portfolio, [here](https://github.com/CptRagnarok/folio). checkout the [README](https://github.com/CptRagnarok/folio/blob/master/README.md) to see how it works!
 
 <!---
 CptRagnarok/CptRagnarok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
