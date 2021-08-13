@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @CptRagnarok.
-- ✈️ I am currently a full-time Pilot flying the Airbus A320 around Europe (Well, that's mostly what I did pre-pandemic...)
-- 👀 I’m interested in Javascript and Distributed Ledger Technology.
-- 🌱 I’m currently learning Linux/Ubuntu.
+- ✈️ A part-time Pilot flying the Airbus A320 around Europe...
+- 👀 When I'm not flying I'm busy operating the ADA STEM Stake Pool [$STEM]
+- 🌱 I’m currently learning postgreSQL
 - 💞️ I’m looking to collaborate with a System Admin/DevOps Engineer running a node on the Cardano Blockchain.
-- 📫 How to reach me ... on Twitter @KenWestwood
+- 📫 How to reach me ... it's a secret.
 
 You can find a copy of my portfolio, [here](https://github.com/CptRagnarok/folio). Checkout the [README](https://github.com/CptRagnarok/folio/blob/master/README.md) to see how it works!
 
